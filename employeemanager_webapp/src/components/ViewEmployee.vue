@@ -1,6 +1,6 @@
 <template>
     <div id="view-employee">
-      <h3>VIew employee</h3>
+      <h3>View employee</h3>
     </div>
 </template>
 

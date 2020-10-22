@@ -6,7 +6,7 @@
 
 <script>
     export default {
-        name: "EditEmployee"
+        name: "EditEmployee",
       data(){
           return{
 
