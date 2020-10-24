@@ -1,6 +1,9 @@
-# employeemanager_webapp
+# Employeemanager_webapp
 
-> simple employee management app using vuejs and firestore.
+>simple employee management app that offers add new employees,delete employees and view added employees.
+
+Using vuejs and firebase:firestore,Materializecss,Jquery and Font-awesome
+
 
 ## Build Setup
 

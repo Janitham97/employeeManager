@@ -6,6 +6,7 @@ import EditEmployee from "../components/EditEmployee";
 import NewEmployee from "../components/NewEmployee";
 import ViewEmployee from "../components/ViewEmployee";
 
+
 Vue.use(Router)
 
 export default new Router({
@@ -24,10 +25,11 @@ export default new Router({
       path: '/edit/:employee_id',
       name: 'edit-employee',
       component: EditEmployee
-    }, {
+    },
+    {
       path: '/:employee_id',
       name: 'view-employee',
       component: ViewEmployee
-    }
+    },
   ]
 })
